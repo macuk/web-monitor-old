@@ -9,7 +9,9 @@ How to use it?
 1. Edit config.yml
 2. Edit urls.txt
 3. Run monitoring
+
     ruby web-monitor.rb
+
 4. Run web-monitor in crontab
 
 Configuration
