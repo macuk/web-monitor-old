@@ -1,4 +1,4 @@
-timeout_level: 3 # in seconds
+timeout_level: 3             # in seconds
+alert_mail: alert@domain.com # errors will be sent there
+urls_file: urls.txt          # sites to monitor
 log_file: web-monitor.log
-alert_mail: alert@somedomain.com
-urls_file: urls.txt
