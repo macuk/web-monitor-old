@@ -24,4 +24,4 @@ You can enter config file as script parameter:
 License
 -------
 
-Copyright (c) 2010 Piotr Macuk, released under the MIT license
+Copyright (c) 2012 Piotr Macuk, released under the MIT license
