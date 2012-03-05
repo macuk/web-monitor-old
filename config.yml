@@ -1,0 +1,4 @@
+timeout_level: 3 # in seconds
+log_file: web-monitor.log
+alert_mail: alert@somedomain.com
+urls_file: urls.txt
