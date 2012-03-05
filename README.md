@@ -20,3 +20,8 @@ Configuration
 You can enter config file as script parameter:
 
     ruby web-monitor.rb /path/to/some/config-file.yml
+
+License
+-------
+
+Copyright (c) 2010 Piotr Macuk, released under the MIT license
