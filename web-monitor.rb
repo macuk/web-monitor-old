@@ -30,6 +30,7 @@ begin
       log.error(msg)
       system %(echo '' | mail -s "#{uri.host} #{response.code} #{bm}" #{config['alert_mail']})
     end
+    sleep 1
   end
   log.close
 rescue => err
